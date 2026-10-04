@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+live/btc_5m_live.csv
+live/state.json
+live/analysis.lock
+live/runs/
+pa_model_llm/runs/
